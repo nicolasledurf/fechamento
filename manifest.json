@@ -1,11 +1,11 @@
 {
-    "name": "rdefechamento",
-    "short_name": "rdefechamento",
+    "name": "Fechamento",
+    "short_name": "fechamento",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Relatório de Fechamento desenvolvido para Clientes da Agromoney.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
